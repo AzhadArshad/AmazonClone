@@ -14,9 +14,9 @@ Technologies Used:
 
 Inspiration & Tutorial:
 
-This project was built with the guidance of the excellent tutorial provided by Apna College Official on YouTube. The tutorial was thorough and very beginner-friendly, walking through each step to recreate the Amazon landing page from scratch.
+This project was built with the guidance of the excellent tutorial provided by Apna College Official {https://www.youtube.com/@ApnaCollegeOfficial} on YouTube. The tutorial was thorough and very beginner-friendly, walking through each step to recreate the Amazon landing page from scratch.
 
-Check out the full tutorial here: Amazon Clone Tutorial
+Check out the full tutorial here: Amazon Clone Tutorial {https://youtu.be/Ez8F0nW6S-w?list=PLfqMhTWNBTe0PY9xunOzsP5kmYIz2Hu7i}
 
 I would like to give a special thanks to Apna College Official and the instructor, Her, for creating such an insightful and easy-to-follow tutorial. Her teaching style made it simple to grasp key concepts, and I highly recommend her channel for anyone looking to learn web development.
 
